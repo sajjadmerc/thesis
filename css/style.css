@@ -131,8 +131,7 @@ html,body {
 #content .landing-text h1 {
 	color: white;
 	font-size: 78px;
-	font-size: 6.0vw;
-	line-height: 6.2vw;
+	line-height: 82px;
 	letter-spacing: -4px;
 	font-family: "Avenir Demi Bold";
 }
@@ -140,7 +139,7 @@ html,body {
 #content .landing-text p {
 	width: 100%;
 	color: white;
-	font-size: 1.7vw;
+	font-size: 22px;
 	margin-top: 20px;
 	color: #D8D8D8;
 }
